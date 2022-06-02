@@ -3,7 +3,6 @@
 #include <string.h> 
 #include <stdlib.h> 
 #include "microdistrict.h"
-//работает
 int check(char* s)
 {
 	for (int k = 0; k < strlen(s); k++) 
